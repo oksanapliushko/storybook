@@ -1,0 +1,6 @@
+streamlit
+llama-index
+Pillow
+numpy
+google-generativeai>=0.3.0
+streamlit-tags
